@@ -58,7 +58,7 @@ public class Addressbook {
 	}
 	
 	public static void main(String[] args) {
-		System.out.println("Hello");
+		System.out.println("Hello World");
 		BuddyInfo buddy1 = new BuddyInfo("555", "321 Bank", "John");
 		Addressbook book = new Addressbook();
 		book.addBuddy(buddy1);
